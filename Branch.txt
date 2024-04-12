@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file Branch chi thuoc nhanh Branch ma thoi
+=======
+file Branch thuoc main va nhanh branch
+>>>>>>> main
